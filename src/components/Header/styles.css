@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  background-color: #dbc2a5;
+  padding: 30px;
+  align-items: center;
+}
+
+.logo {
+  font-size: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.activeLink {
+  color: orange;
+}
