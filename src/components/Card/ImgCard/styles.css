@@ -1,5 +1,7 @@
 .img-card {
+  display: block;
   width: 300px;
   height: 300px;
+  margin: 0 auto;
   object-fit: fill;
 }

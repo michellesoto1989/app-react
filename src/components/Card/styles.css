@@ -5,11 +5,17 @@
 
 .flex-card {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
-@media (max-width: 666px) {
-  .content {
-    grid-template-columns: auto;
+.card-content {
+  margin-bottom: 3rem;
+}
+
+@media (max-width: 775px) {
+  .flex-card {
+    display: block;
+    text-align: center;
+    justify-content: center;
   }
 }

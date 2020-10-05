@@ -4,7 +4,7 @@ import './styles.css';
 
 const Nordeste = () => {
   return (
-    <div className='margin-body'>
+    <div className='margin-body animeDown'>
       <h1>Nordeste</h1>
     </div>
   );
