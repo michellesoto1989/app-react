@@ -1,6 +1,6 @@
 .sobre {
   display: grid;
-  width: 75%;
+  border-radius: 5px;
   margin: 3rem auto;
   grid-template-columns: 1fr;
   background-color: aqua;

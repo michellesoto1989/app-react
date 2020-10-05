@@ -6,10 +6,10 @@ import './styles.css';
 
 const Main = () => {
   return (
-    <>
+    <div className='margin-body'>
       <Sobre />
       <Card />
-    </>
+    </div>
   );
 };
 

@@ -1,11 +1,11 @@
 .content {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
 }
 
-.card-content {
-  width: 350px;
-  margin: 0 auto;
+.flex-card {
+  display: flex;
+  justify-content: space-between;
 }
 
 @media (max-width: 666px) {

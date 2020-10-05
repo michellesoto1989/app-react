@@ -4,9 +4,9 @@ import './styles.css';
 
 const Norte = () => {
   return (
-    <>
-      <h1>Norte</h1>
-    </>
+    <div className='margin-body'>
+      <h1>norte</h1>
+    </div>
   );
 };
 
