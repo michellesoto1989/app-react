@@ -17,7 +17,7 @@ const Header = () => {
           </NavLink>
         </li>
         <NavLink to='/nordeste' activeClassName='activeLink'>
-          Norte
+          Nordeste
         </NavLink>
       </ul>
     </header>
